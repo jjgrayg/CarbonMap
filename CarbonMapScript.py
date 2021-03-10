@@ -83,9 +83,6 @@ for lat, lon, name, population, country, adminName, totFoot, footPerCap, gRank, 
     else: 
         fg.add_child(folium.CircleMarker(location = [lat, lon], popup = popup, color = 'green', fill = True, fill_opacity = 0.7, radius = 6))
 
-# # Add a GeoJson
-# fg.add_child(folium.GeoJson(data = (open('countries.geo.json'))))
-
 # Plot the points in the FeatureGroup
 map.add_child(fg)
 
