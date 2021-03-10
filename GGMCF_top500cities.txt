@@ -1,0 +1,501 @@
+city_ascii	country	Footprint/cap (t CO2)	Population	Footprint (Mt CO2)	1 StdDev	ClusterID	Global ranking	Domestic ranking
+Seoul	South Korea	13.0 &plusmn;2.4	21254000	276.1 &plusmn;51.8	5.180000e+01	13127	1	1
+Guangzhou	China	6.1 &plusmn;1.0	44309000	272.0 &plusmn;46.2	4.620000e+01	12827	2	1
+New York	United States	17.1 &plusmn;5.5	13648000	233.5 &plusmn;75.4	7.540000e+01	864	3	1
+Hong Kong SAR	China	34.6 &plusmn;6.3	6029000	208.5 &plusmn;37.8	3.780000e+01	13847	4	1
+Los Angeles	United States	14.6 &plusmn;3.2	13482000	196.4 &plusmn;43.7	4.370000e+01	15	5	2
+Shanghai	China	7.6 &plusmn;1.9	23804000	181.0 &plusmn;44.6	4.460000e+01	13141	6	2
+Country of Singapore	Singapore	30.8 &plusmn;6.5	5235000	161.1 &plusmn;34.1	3.410000e+01	13845	7	1
+Chicago	United States	21.1 &plusmn;5.1	7260000	152.9 &plusmn;37.2	3.720000e+01	587	8	3
+Tokyo	Japan	4.0 &plusmn;0.6	32999000	132.8 &plusmn;21.4	2.140000e+01	13701	9	1
+Riyadh	Saudi Arabia	20.7 &plusmn;4.6	5747000	118.8 &plusmn;26.4	2.640000e+01	5119	10	1
+Dubai	UAE	22.3 &plusmn;6.2	4971000	110.8 &plusmn;31.0	31	5297	11	1
+Wuxi	China	9.2 &plusmn;2.1	12010000	110.4 &plusmn;25.8	2.580000e+01	12992	12	3
+Johannesburg	South Africa	9.5 &plusmn;1.8	11049000	105.2 &plusmn;19.9	1.990000e+01	3403	13	1
+Tehran	Iran	8.2 &plusmn;2.2	12671000	104.4 &plusmn;28.2	2.820000e+01	5137	14	1
+Moscow	Russia	6.9 &plusmn;1.6	14453000	99.5 &plusmn;22.5	2.250000e+01	3409	15	1
+London	UK	10.4 &plusmn;2.3	9486000	98.9 &plusmn;21.8	2.180000e+01	1761	16	1
+Benha	Egypt	2.5 &plusmn;0.5	34556000	87.2 &plusmn;15.6	1.560000e+01	3560	17	1
+Beijing	China	4.2 &plusmn;1.0	19919000	83.7 &plusmn;19.1	1.910000e+01	11054	18	4
+Jakarta	Indonesia	2.3 &plusmn;0.4	36351000	83.7 &plusmn;15.6	1.560000e+01	12584	19	1
+Al-Ahmadi	Kuwait	29.9 &plusmn;7.2	2697000	80.6 &plusmn;19.3	1.930000e+01	5121	20	1
+Miami	United States	16.0 &plusmn;4.4	5031000	80.3 &plusmn;21.9	2.190000e+01	513	21	4
+Samut Prakan	Thailand	5.3 &plusmn;1.2	15083000	80.0 &plusmn;17.9	1.790000e+01	11083	22	1
+Paris	France	7.7 &plusmn;2.5	10120000	78.0 &plusmn;25.5	2.550000e+01	1892	23	1
+Dallas	United States	16.5 &plusmn;3.4	4674000	76.9 &plusmn;16.0	16	310	24	5
+Tianjin	China	9.0 &plusmn;2.6	7971000	71.4 &plusmn;20.4	2.040000e+01	11319	25	5
+Istanbul	Turkey	5.2 &plusmn;1.2	13587000	70.9 &plusmn;16.0	16	3298	26	1
+Detroit	United States	25.5 &plusmn;5.6	2770000	70.6 &plusmn;15.4	1.540000e+01	16079	27	6
+Philadelphia	United States	19.5 &plusmn;5.4	3591000	70.2 &plusmn;19.5	1.950000e+01	826	28	7
+San Jose	United States	17.5 &plusmn;4.9	4003000	70.0 &plusmn;19.7	1.970000e+01	11	29	8
+New Delhi	India	2.6 &plusmn;0.6	27230000	69.6 &plusmn;16.0	16	6542	30	1
+Cologne	Germany	10.0 &plusmn;2.5	6942000	69.6 &plusmn;17.1	1.710000e+01	2114	31	1
+Houston	United States	14.6 &plusmn;4.0	4524000	66.1 &plusmn;18.1	1.810000e+01	300	32	9
+Jeddah	Saudi Arabia	19.2 &plusmn;6.7	3287000	63.1 &plusmn;21.9	2.190000e+01	4492	33	2
+Washington D.C.	United States	19.0 &plusmn;4.5	3285000	62.3 &plusmn;14.7	1.470000e+01	780	34	10
+Osaka	Japan	3.8 &plusmn;0.9	15566000	58.9 &plusmn;13.4	1.340000e+01	13577	35	2
+Buenos Aires	Argentina	4.1 &plusmn;0.7	13869000	57.5 &plusmn;10.2	1.020000e+01	1014	36	1
+Mexico City	Mexico	2.8 &plusmn;0.6	19821000	55.7 &plusmn;11.0	11	157	37	1
+Shah Alam	Malaysia	8.5 &plusmn;1.9	6336000	53.9 &plusmn;12.2	1.220000e+01	11607	38	1
+Taipei	Taiwan	6.2 &plusmn;1.3	8592000	53.3 &plusmn;11.2	1.120000e+01	13423	39	1
+Phoenix	United States	15.9 &plusmn;4.6	3279000	52.1 &plusmn;15.0	15	84	40	11
+Wuhan	China	7.0 &plusmn;2.1	7285000	51.2 &plusmn;15.5	1.550000e+01	12200	41	6
+Hangzhou	China	7.0 &plusmn;1.8	7019000	49.2 &plusmn;12.8	1.280000e+01	13124	42	7
+Toronto	Canada	9.7 &plusmn;2.3	5055000	49.1 &plusmn;11.5	1.150000e+01	801	43	1
+Nanjing	China	7.1 &plusmn;2.1	6323000	44.7 &plusmn;13.3	1.330000e+01	12812	44	8
+Shenyang	China	8.0 &plusmn;3.2	5573000	44.6 &plusmn;17.7	1.770000e+01	11918	45	9
+Melbourne	Australia	13.9 &plusmn;3.5	3185000	44.4 &plusmn;11.2	1.120000e+01	13776	46	1
+Shantou	China	4.0 &plusmn;1.0	11048000	43.8 &plusmn;10.7	1.070000e+01	13174	47	10
+Madrid	Spain	8.8 &plusmn;3.1	4949000	43.4 &plusmn;15.5	1.550000e+01	1577	48	1
+Kolkata	India	1.7 &plusmn;0.3	24792000	42.9 &plusmn;8.2	8.200000e+00	9612	49	2
+PUnited Statesn	South Korea	13.8 &plusmn;5.1	3064000	42.3 &plusmn;15.6	1.560000e+01	13406	50	2
+Sydney	Australia	11.7 &plusmn;3.0	3533000	41.2 &plusmn;10.6	1.060000e+01	13793	51	2
+Xi'an	China	7.3 &plusmn;2.4	5653000	41.2 &plusmn;13.8	1.380000e+01	10776	52	11
+Chengdu	China	4.4 &plusmn;1.0	9308000	40.5 &plusmn;9.1	9.100000e+00	10585	53	12
+Huhot	China	22.0 &plusmn;10.1	1796000	39.6 &plusmn;18.2	1.820000e+01	10542	54	13
+Boston	United States	19.0 &plusmn;8.4	1950000	37.1 &plusmn;16.4	1.640000e+01	932	55	12
+Baotou	China	18.5 &plusmn;8.5	1991000	36.8 &plusmn;16.9	1.690000e+01	10467	56	14
+Taiyuan	China	10.1 &plusmn;4.4	3517000	35.6 &plusmn;15.6	1.560000e+01	10873	57	15
+Denver	United States	19.4 &plusmn;6.1	1824000	35.4 &plusmn;11.1	1.110000e+01	272	58	13
+Athens	Greece	10.8 &plusmn;3.6	3276000	35.3 &plusmn;11.9	1.190000e+01	3165	59	1
+Atlanta	United States	18.7 &plusmn;5.0	1860000	34.8 &plusmn;9.3	9.300000e+00	520	60	14
+Seattle	United States	17.3 &plusmn;5.6	1973000	34.1 &plusmn;11.0	11	147	61	15
+Yinchuan	China	25.3 &plusmn;12.8	1338000	33.8 &plusmn;17.2	1.720000e+01	10409	62	16
+Sao Paulo	Brazil	1.7 &plusmn;0.4	19770000	33.6 &plusmn;7.1	7.100000e+00	1204	63	1
+Berlin	Germany	10.4 &plusmn;3.6	3217000	33.5 &plusmn;11.6	1.160000e+01	2640	64	2
+Manchester	UK	9.5 &plusmn;1.2	3512000	33.2 &plusmn;4.2	4.200000e+00	1621	65	2
+Minneapolis	United States	21.8 &plusmn;6.4	1518000	33.0 &plusmn;9.8	9.800000e+00	522	66	16
+Zhengzhou	China	7.2 &plusmn;2.1	4556000	32.7 &plusmn;9.7	9.700000e+00	11443	67	17
+Chongqing	China	6.6 &plusmn;2.6	4979000	32.6 &plusmn;13.1	1.310000e+01	10935	68	18
+Doha	Qatar	28.7 &plusmn;10.2	1128000	32.4 &plusmn;11.5	1.150000e+01	5243	69	1
+Mumbai	India	1.5 &plusmn;0.3	21450000	32.1 &plusmn;6.5	6.500000e+00	6400	70	3
+Ad Damman	Saudi Arabia	19.8 &plusmn;6.7	1611000	32.0 &plusmn;10.8	1.080000e+01	5205	71	3
+Wenzhou	China	6.4 &plusmn;2.4	4941000	31.7 &plusmn;11.9	1.190000e+01	13318	72	19
+Quanzhou	China	8.4 &plusmn;2.6	3748000	31.5 &plusmn;9.6	9.600000e+00	13313	73	20
+Brisbane	Australia	19.1 &plusmn;4.3	1644000	31.4 &plusmn;7.1	7.100000e+00	13814	74	3
+Dalian	China	9.4 &plusmn;4.6	3289000	30.9 &plusmn;15.0	15	12175	75	21
+Tel Aviv-Yafo	Israel	11.5 &plusmn;3.6	2653000	30.6 &plusmn;9.6	9.600000e+00	3933	76	1
+Milan	Italy	8.0 &plusmn;2.5	3825000	30.4 &plusmn;9.6	9.600000e+00	2350	77	1
+Abu Dhabi	UAE	32.9 &plusmn;17.1	911000	29.9 &plusmn;15.6	1.560000e+01	5288	78	2
+Saint Petersburg	Russia	7.0 &plusmn;2.7	4244000	29.6 &plusmn;11.5	1.150000e+01	3147	79	2
+Ankara	Turkey	6.9 &plusmn;2.1	4269000	29.3 &plusmn;9.1	9.100000e+00	3522	80	2
+Qingdao	China	8.2 &plusmn;2.9	3572000	29.2 &plusmn;10.5	1.050000e+01	12481	81	22
+Nagoya	Japan	3.7 &plusmn;1.0	7738000	28.8 &plusmn;7.5	7.500000e+00	13644	82	3
+Montreal	Canada	10.1 &plusmn;2.6	2795000	28.3 &plusmn;7.4	7.400000e+00	931	83	2
+St. Louis	United States	24.1 &plusmn;8.2	1177000	28.3 &plusmn;9.6	9.600000e+00	448	84	17
+San Diego	United States	14.5 &plusmn;4.4	1942000	28.1 &plusmn;8.6	8.600000e+00	14403	85	18
+Jinan	China	8.5 &plusmn;3.7	3295000	28.0 &plusmn;12.3	1.230000e+01	11758	86	23
+Santiago	Chile	4.4 &plusmn;1.3	6226000	27.3 &plusmn;8.0	8	852	87	1
+Rotterdam	Netherlands	11.1 &plusmn;3.5	2454000	27.1 &plusmn;8.5	8.500000e+00	1965	88	1
+Cape Town	South Africa	7.7 &plusmn;2.5	3472000	26.8 &plusmn;8.8	8.800000e+00	3025	89	2
+Hyderabad	India	3.2 &plusmn;0.7	8396000	26.5 &plusmn;6.2	6.200000e+00	7648	90	4
+Ho Chi Minh City	Viet Nam	2.3 &plusmn;0.6	11562000	26.3 &plusmn;6.8	6.800000e+00	12519	91	1
+Barcelona	Spain	7.1 &plusmn;2.5	3648000	26.1 &plusmn;9.0	9	1895	92	2
+Baltimore	United States	20.2 &plusmn;9.1	1254000	25.4 &plusmn;11.4	1.140000e+01	803	93	19
+Changchun	China	7.6 &plusmn;3.2	3326000	25.2 &plusmn;10.8	1.080000e+01	11786	94	24
+Almaty	Kazakhstan	13.9 &plusmn;4.8	1814000	25.2 &plusmn;8.8	8.800000e+00	5588	95	1
+Birmingham	UK	10.6 &plusmn;3.1	2374000	25.1 &plusmn;7.4	7.400000e+00	1665	96	3
+Hefei	China	6.4 &plusmn;2.6	3879000	24.9 &plusmn;10.0	10	12628	97	25
+Shijiazhuang	China	7.4 &plusmn;3.1	3358000	24.9 &plusmn;10.3	1.030000e+01	11093	98	26
+Harbin	China	5.8 &plusmn;2.3	4135000	24.1 &plusmn;9.5	9.500000e+00	11563	99	27
+Cleveland	United States	24.7 &plusmn;9.0	973000	24.0 &plusmn;8.8	8.800000e+00	726	100	20
+Fremantle	Australia	18.8 &plusmn;5.9	1276000	24.0 &plusmn;7.6	7.600000e+00	12324	101	4
+Durban	South Africa	8.4 &plusmn;2.5	2833000	23.7 &plusmn;7.2	7.200000e+00	3586	102	3
+Las Vegas	United States	12.3 &plusmn;4.8	1904000	23.5 &plusmn;9.1	9.100000e+00	79	103	21
+Lima	Peru	2.6 &plusmn;0.6	9043000	23.2 &plusmn;5.8	5.800000e+00	494	104	1
+Mashhad	Iran	7.5 &plusmn;2.9	3044000	22.8 &plusmn;8.8	8.800000e+00	5299	105	2
+Kansas City	United States	22.6 &plusmn;7.4	1004000	22.7 &plusmn;7.4	7.400000e+00	386	106	22
+Guiyang	China	8.5 &plusmn;2.6	2619000	22.3 &plusmn;6.9	6.900000e+00	11251	107	28
+Chennai	India	2.3 &plusmn;0.6	9483000	21.8 &plusmn;5.6	5.600000e+00	8434	108	5
+Caracas	Venezuela	3.6 &plusmn;1.2	6011000	21.6 &plusmn;7.3	7.300000e+00	781	109	1
+Bangalore	India	2.0 &plusmn;0.6	10591000	21.6 &plusmn;6.0	6	7703	110	6
+Orlando	United States	14.7 &plusmn;4.5	1436000	21.1 &plusmn;6.5	6.500000e+00	532	111	23
+Baghdad	Iraq	4.0 &plusmn;1.1	5230000	21.1 &plusmn;5.7	5.700000e+00	4790	112	1
+Sacramento	United States	14.2 &plusmn;4.9	1484000	21.1 &plusmn;7.3	7.300000e+00	52	113	24
+Bogota	Colombia	2.4 &plusmn;0.6	8455000	20.5 &plusmn;5.0	5	575	114	1
+Taegu	South Korea	10.6 &plusmn;4.5	1918000	20.4 &plusmn;8.7	8.700000e+00	13384	115	3
+Urumqi	China	6.7 &plusmn;3.0	3035000	20.3 &plusmn;9.1	9.100000e+00	6636	116	29
+Vienna	Austria	11.1 &plusmn;4.2	1810000	20.2 &plusmn;7.7	7.700000e+00	2813	117	1
+Manila	Philippines	1.0 &plusmn;0.2	20507000	20.0 &plusmn;4.9	4.900000e+00	13542	118	1
+Columbus	United States	19.8 &plusmn;8.5	1003000	19.9 &plusmn;8.5	8.500000e+00	675	119	25
+Esfahan	Iran	9.2 &plusmn;3.2	2151000	19.8 &plusmn;6.9	6.900000e+00	5195	120	3
+Sitrah	Bahrain	9.5 &plusmn;2.5	2044000	19.4 &plusmn;5.0	5	5216	121	1
+Portland	United States	16.7 &plusmn;8.0	1163000	19.4 &plusmn;9.3	9.300000e+00	104	122	26
+Indianapolis	United States	20.6 &plusmn;5.7	938000	19.4 &plusmn;5.3	5.300000e+00	604	123	27
+Zibo	China	11.5 &plusmn;4.3	1687000	19.3 &plusmn;7.2	7.200000e+00	11939	124	30
+San Antonio	United States	15.2 &plusmn;4.9	1262000	19.2 &plusmn;6.1	6.100000e+00	251	125	28
+Taejon	South Korea	12.4 &plusmn;5.2	1551000	19.2 &plusmn;8.0	8	13283	126	4
+Kota Yogyakarta	Indonesia	2.7 &plusmn;0.6	6961000	19.0 &plusmn;3.9	3.900000e+00	13131	127	2
+Chifeng	China	28.0 &plusmn;16.2	677000	19.0 &plusmn;11.0	11	11095	128	31
+Hamburg	Germany	11.1 &plusmn;3.8	1700000	19.0 &plusmn;6.4	6.400000e+00	2359	129	3
+Pune	India	2.8 &plusmn;0.9	6697000	18.9 &plusmn;6.1	6.100000e+00	6628	130	7
+Al Ain	UAE	25.1 &plusmn;13.4	738000	18.5 &plusmn;9.9	9.900000e+00	24228	131	3
+Kwangju	South Korea	13.2 &plusmn;5.6	1408000	18.5 &plusmn;7.8	7.800000e+00	13349	132	5
+Surabaja	Indonesia	2.2 &plusmn;0.4	8370000	18.4 &plusmn;3.6	3.600000e+00	13307	133	3
+Mecca	Saudi Arabia	15.1 &plusmn;7.1	1181000	17.9 &plusmn;8.4	8.400000e+00	4592	134	4
+Vancouver	Canada	10.2 &plusmn;3.4	1715000	17.5 &plusmn;5.9	5.900000e+00	188	135	3
+Datong, Shanxi	China	11.5 &plusmn;6.6	1517000	17.5 &plusmn;10.0	10	10699	136	32
+Xiamen	China	5.3 &plusmn;2.2	3268000	17.3 &plusmn;7.3	7.300000e+00	13266	137	33
+West Yorkshire	UK	11.2 &plusmn;3.9	1530000	17.2 &plusmn;6.0	6	1680	138	4
+Ningbo	China	6.6 &plusmn;2.1	2573000	17.1 &plusmn;5.3	5.300000e+00	13270	139	34
+T'aichung	Taiwan	5.8 &plusmn;1.8	2957000	17.0 &plusmn;5.2	5.200000e+00	13417	140	2
+Kunming	China	5.4 &plusmn;2.1	3098000	16.9 &plusmn;6.5	6.500000e+00	10800	141	35
+Milwaukee	United States	20.4 &plusmn;8.9	821000	16.8 &plusmn;7.3	7.300000e+00	628	142	29
+Tangshan	China	9.5 &plusmn;3.8	1762000	16.8 &plusmn;6.7	6.700000e+00	11418	143	36
+Rio de Janeiro	Brazil	1.8 &plusmn;0.5	9208000	16.7 &plusmn;4.2	4.200000e+00	1262	144	2
+St. Petersburg	United States	21.0 &plusmn;8.3	798000	16.7 &plusmn;6.6	6.600000e+00	462	145	30
+Monterrey	Mexico	4.1 &plusmn;1.4	4084000	16.6 &plusmn;5.8	5.800000e+00	202	146	2
+Changsha	China	4.8 &plusmn;1.9	3371000	16.3 &plusmn;6.3	6.300000e+00	12303	147	37
+Hanoi	Viet Nam	2.3 &plusmn;0.6	7056000	16.1 &plusmn;3.9	3.900000e+00	11559	148	2
+Rome	Italy	6.7 &plusmn;2.4	2408000	16.1 &plusmn;5.8	5.800000e+00	2686	149	2
+Ningbo	China	8.3 &plusmn;3.4	1882000	15.7 &plusmn;6.5	6.500000e+00	13223	150	38
+Taizhou	China	7.2 &plusmn;3.0	2175000	15.6 &plusmn;6.4	6.400000e+00	13350	151	39
+New Orleans	United States	26.1 &plusmn;13.0	596000	15.6 &plusmn;7.8	7.800000e+00	373	152	31
+Al Hofuf	Saudi Arabia	14.2 &plusmn;6.9	1091000	15.5 &plusmn;7.6	7.600000e+00	5203	153	5
+Chios	Turkey	6.0 &plusmn;2.8	2555000	15.4 &plusmn;7.0	7	3261	154	3
+Ulsan	South Korea	16.7 &plusmn;6.1	922000	15.4 &plusmn;5.6	5.600000e+00	13410	155	6
+Naples	Italy	4.5 &plusmn;1.6	3372000	15.3 &plusmn;5.3	5.300000e+00	2775	156	3
+Linyi, Shandong	China	10.0 &plusmn;4.2	1510000	15.1 &plusmn;6.3	6.300000e+00	12270	157	40
+Guadalajara	Mexico	3.4 &plusmn;1.1	4465000	15.1 &plusmn;5.0	5	93	158	3
+Kaoshsiung	Taiwan	6.5 &plusmn;2.9	2334000	15.1 &plusmn;6.9	6.900000e+00	13436	159	3
+Novosibirsk	Russia	12.2 &plusmn;5.7	1229000	15.0 &plusmn;7.0	7	5411	160	3
+Dhaka	Bangladesh	0.7 &plusmn;0.1	21764000	15.0 &plusmn;3.2	3.200000e+00	9953	161	1
+Bandung	Indonesia	1.9 &plusmn;0.5	8025000	14.9 &plusmn;4.0	4	12804	162	4
+Calgary	Canada	14.9 &plusmn;5.2	997000	14.9 &plusmn;5.2	5.200000e+00	344	163	4
+Fuzhou	China	5.8 &plusmn;3.1	2524000	14.7 &plusmn;7.9	7.900000e+00	13301	164	41
+Pittsburgh	United States	24.0 &plusmn;10.4	602000	14.5 &plusmn;6.3	6.300000e+00	753	165	32
+Austin	United States	15.0 &plusmn;5.1	955000	14.4 &plusmn;4.8	4.800000e+00	270	166	33
+Amman	Jordan	4.0 &plusmn;1.0	3586000	14.3 &plusmn;3.7	3.700000e+00	4045	167	1
+Tongliao	China	25.5 &plusmn;17.7	561000	14.3 &plusmn;9.9	9.900000e+00	11341	168	42
+Salt Lake City	United States	15.5 &plusmn;6.0	918000	14.3 &plusmn;5.5	5.500000e+00	194	169	34
+Medina	Saudi Arabia	14.9 &plusmn;5.9	947000	14.1 &plusmn;5.6	5.600000e+00	4483	170	6
+Adelaide	Australia	16.7 &plusmn;6.4	843000	14.1 &plusmn;5.4	5.400000e+00	13722	171	5
+Gor'kiy	Russia	11.9 &plusmn;5.7	1158000	13.7 &plusmn;6.6	6.600000e+00	3824	172	4
+Luoyang	China	7.5 &plusmn;3.0	1829000	13.7 &plusmn;5.5	5.500000e+00	11255	173	43
+Warsaw	Poland	7.5 &plusmn;3.0	1783000	13.4 &plusmn;5.3	5.300000e+00	2976	174	1
+Changzhou	China	10.3 &plusmn;4.5	1285000	13.2 &plusmn;5.8	5.800000e+00	13020	175	44
+Chelyabinsk	Russia	12.9 &plusmn;5.8	1019000	13.2 &plusmn;5.9	5.900000e+00	5074	176	5
+Omsk	Russia	13.8 &plusmn;6.6	951000	13.1 &plusmn;6.3	6.300000e+00	5295	177	6
+Astana	Kazakhstan	15.5 &plusmn;8.2	832000	12.9 &plusmn;6.9	6.900000e+00	5318	178	2
+Maebashi/Takasaki	Japan	9.4 &plusmn;2.6	1379000	12.9 &plusmn;3.5	3.500000e+00	13690	179	4
+Norfolk	United States	18.4 &plusmn;7.5	696000	12.8 &plusmn;5.2	5.200000e+00	772	180	35
+Fushun	China	10.4 &plusmn;5.7	1230000	12.8 &plusmn;7.0	7	11986	181	45
+Anshan	China	8.0 &plusmn;5.1	1575000	12.5 &plusmn;8.0	8	11980	182	46
+Louisville	United States	21.5 &plusmn;8.6	575000	12.3 &plusmn;4.9	4.900000e+00	578	183	36
+Tabriz	Iran	8.0 &plusmn;3.8	1539000	12.3 &plusmn;5.8	5.800000e+00	4820	184	4
+Ahmadabad	India	1.8 &plusmn;0.7	6635000	12.2 &plusmn;4.5	4.500000e+00	6178	185	8
+Sohag	Egypt	2.0 &plusmn;0.5	6173000	12.1 &plusmn;2.9	2.900000e+00	3690	186	2
+Edmonton	Canada	15.1 &plusmn;5.8	796000	12.1 &plusmn;4.6	4.600000e+00	377	187	5
+Kazan'	Russia	12.5 &plusmn;4.8	953000	11.9 &plusmn;4.5	4.500000e+00	4207	188	7
+Munich	Germany	7.2 &plusmn;3.2	1639000	11.8 &plusmn;5.3	5.300000e+00	2571	189	4
+Cincinnati	United States	22.6 &plusmn;8.9	521000	11.8 &plusmn;4.6	4.600000e+00	632	190	37
+Sverdlovsk	Russia	12.0 &plusmn;5.7	980000	11.8 &plusmn;5.6	5.600000e+00	4953	191	8
+Lanzhou	China	5.0 &plusmn;2.3	2321000	11.7 &plusmn;5.4	5.400000e+00	10389	192	47
+Ahvaz	Iran	9.1 &plusmn;4.7	1271000	11.6 &plusmn;6.0	6	5124	193	5
+Semarang	Indonesia	2.2 &plusmn;0.5	5281000	11.5 &plusmn;2.4	2.400000e+00	13121	194	5
+Johor Baharu	Malaysia	7.5 &plusmn;3.3	1530000	11.5 &plusmn;5.0	5	12102	195	2
+B'abda	Lebanon	5.3 &plusmn;2.3	2141000	11.4 &plusmn;4.9	4.900000e+00	3961	196	1
+Copenhagen	Denmark	10.1 &plusmn;4.2	1125000	11.4 &plusmn;4.7	4.700000e+00	2544	197	1
+Xuzhou	China	6.6 &plusmn;3.3	1710000	11.4 &plusmn;5.7	5.700000e+00	12203	198	48
+Rostov-on-Don	Russia	11.2 &plusmn;5.4	1013000	11.3 &plusmn;5.5	5.500000e+00	3907	199	9
+Buffalo	United States	19.8 &plusmn;10.0	570000	11.3 &plusmn;5.7	5.700000e+00	16274	200	38
+Prague	Czech Republic	9.9 &plusmn;4.3	1129000	11.1 &plusmn;4.9	4.900000e+00	2724	201	1
+Oklahoma City	United States	20.8 &plusmn;8.9	530000	11.1 &plusmn;4.7	4.700000e+00	336	202	39
+San Cristobal	Dominican Republic	2.9 &plusmn;0.8	3744000	11.0 &plusmn;2.9	2.900000e+00	748	203	1
+Amsterdam	Netherlands	10.5 &plusmn;4.3	1043000	11.0 &plusmn;4.5	4.500000e+00	1995	204	2
+Bucharest	Romania	6.1 &plusmn;3.3	1789000	11.0 &plusmn;5.9	5.900000e+00	3189	205	1
+Weifang	China	9.9 &plusmn;5.3	1099000	10.9 &plusmn;5.8	5.800000e+00	12146	206	49
+Hartford	United States	19.0 &plusmn;10.4	568000	10.8 &plusmn;5.9	5.900000e+00	904	207	40
+Maracaibo	Venezuela	6.0 &plusmn;2.5	1806000	10.8 &plusmn;4.5	4.500000e+00	666	208	2
+Lahore	Pakistan	1.0 &plusmn;0.2	10887000	10.6 &plusmn;2.6	2.600000e+00	5956	209	1
+Budapest	Hungary	5.8 &plusmn;2.0	1847000	10.6 &plusmn;3.8	3.800000e+00	2949	210	1
+Ashgabat	Turkmenistan	11.8 &plusmn;6.8	889000	10.5 &plusmn;6.0	6	5271	211	1
+Tampa	United States	15.3 &plusmn;6.3	689000	10.5 &plusmn;4.3	4.300000e+00	478	212	41
+Bridgeport-Stamford	United States	17.1 &plusmn;7.8	612000	10.5 &plusmn;4.8	4.800000e+00	888	213	42
+Nanchang	China	3.2 &plusmn;1.4	3206000	10.4 &plusmn;4.6	4.600000e+00	12769	214	50
+Medan	Indonesia	2.6 &plusmn;0.8	4056000	10.4 &plusmn;3.2	3.200000e+00	11065	215	6
+Torshavn	UK	11.6 &plusmn;5.5	893000	10.4 &plusmn;4.9	4.900000e+00	1582	216	5
+Changwon	South Korea	14.9 &plusmn;8.6	697000	10.4 &plusmn;6.0	6	13400	217	7
+Frankfurt	Germany	10.0 &plusmn;4.1	1035000	10.4 &plusmn;4.3	4.300000e+00	2277	218	5
+Chonju	South Korea	16.6 &plusmn;9.4	623000	10.4 &plusmn;5.8	5.800000e+00	13312	219	8
+Brussels	Belgium	7.5 &plusmn;4.0	1356000	10.2 &plusmn;5.5	5.500000e+00	1975	220	1
+Krasnoyarsk	Russia	12.8 &plusmn;7.0	798000	10.2 &plusmn;5.6	5.600000e+00	5692	221	10
+Jinzhou	China	12.1 &plusmn;6.5	844000	10.2 &plusmn;5.4	5.400000e+00	11658	222	51
+Katowice	Poland	6.8 &plusmn;2.9	1499000	10.1 &plusmn;4.3	4.300000e+00	2908	223	2
+Lakewood Township	United States	18.9 &plusmn;8.4	533000	10.1 &plusmn;4.5	4.500000e+00	863	224	43
+Kuybyskev	Russia	10.8 &plusmn;5.3	935000	10.1 &plusmn;5.0	5	4374	225	11
+Providence	United States	18.8 &plusmn;9.9	534000	10.1 &plusmn;5.3	5.300000e+00	923	226	44
+Voronezh	Russia	12.6 &plusmn;6.5	794000	10.0 &plusmn;5.2	5.200000e+00	3681	227	12
+Ch'ungju	South Korea	14.7 &plusmn;9.2	674000	9.9 &plusmn;6.2	6.200000e+00	13272	228	9
+Jilin	China	6.5 &plusmn;3.7	1515000	9.8 &plusmn;5.6	5.600000e+00	12012	229	52
+Kyiv	Ukraine	3.7 &plusmn;1.3	2660000	9.8 &plusmn;3.4	3.400000e+00	3250	230	1
+Shiraz	Iran	8.0 &plusmn;4.1	1221000	9.8 &plusmn;5.0	5	5232	231	6
+Omaha	United States	19.9 &plusmn;8.8	484000	9.6 &plusmn;4.2	4.200000e+00	392	232	45
+Valencia	Venezuela	6.9 &plusmn;3.0	1387000	9.5 &plusmn;4.2	4.200000e+00	754	233	3
+Malapuram	India	2.0 &plusmn;0.5	4812000	9.5 &plusmn;2.5	2.500000e+00	7374	234	9
+Quito	Ecuador	4.2 &plusmn;1.7	2252000	9.5 &plusmn;3.7	3.700000e+00	437	235	1
+Cheonan	South Korea	16.3 &plusmn;8.7	581000	9.5 &plusmn;5.0	5	13227	236	10
+Ondorhaan	Mongolia	7.1 &plusmn;2.6	1332000	9.4 &plusmn;3.5	3.500000e+00	9518	237	1
+Jaipur	India	2.5 &plusmn;0.9	3819000	9.4 &plusmn;3.3	3.300000e+00	6465	238	10
+Nanning	China	4.0 &plusmn;2.4	2334000	9.4 &plusmn;5.5	5.500000e+00	11967	239	53
+Jacksonville	United States	17.0 &plusmn;6.3	552000	9.4 &plusmn;3.5	3.500000e+00	554	240	46
+Stuttgart	Germany	8.8 &plusmn;4.3	1062000	9.4 &plusmn;4.6	4.600000e+00	2347	241	6
+Alexandria	Egypt	2.1 &plusmn;0.9	4422000	9.3 &plusmn;4.1	4.100000e+00	3476	242	3
+Baoding	China	7.4 &plusmn;3.7	1238000	9.2 &plusmn;4.6	4.600000e+00	11131	243	54
+Unknown city at lat/lon 32.1, 112.1	China	8.0 &plusmn;4.0	1144000	9.2 &plusmn;4.6	4.600000e+00	11575	244	55
+Putian	China	8.0 &plusmn;3.8	1154000	9.2 &plusmn;4.4	4.400000e+00	13331	245	56
+Curitiba	Brazil	3.5 &plusmn;1.0	2607000	9.2 &plusmn;2.7	2.700000e+00	1145	246	3
+Dublin	Ireland	9.1 &plusmn;4.2	1005000	9.2 &plusmn;4.2	4.200000e+00	1534	247	1
+Yeuqing	China	8.1 &plusmn;4.5	1123000	9.1 &plusmn;5.1	5.100000e+00	13344	248	57
+Stockholm	Sweden	8.1 &plusmn;3.9	1118000	9.1 &plusmn;4.4	4.400000e+00	2768	249	1
+Liuzhou	China	6.1 &plusmn;3.1	1479000	9.1 &plusmn;4.6	4.600000e+00	12028	250	58
+Xiuying	China	6.0 &plusmn;3.3	1494000	9.0 &plusmn;4.9	4.900000e+00	12677	251	59
+Belo Horizonte	Brazil	2.3 &plusmn;0.7	3972000	9.0 &plusmn;2.9	2.900000e+00	1244	252	4
+Dongsheng	China	20.1 &plusmn;19.5	448000	9.0 &plusmn;8.7	8.700000e+00	10510	253	60
+Winnipeg	Canada	14.8 &plusmn;7.4	605000	9.0 &plusmn;4.5	4.500000e+00	579	254	6
+Karachi	Pakistan	0.7 &plusmn;0.2	12561000	9.0 &plusmn;3.1	3.100000e+00	5587	255	2
+Tucson	United States	17.1 &plusmn;7.6	519000	8.8 &plusmn;3.9	3.900000e+00	88	256	47
+Chandigarh	India	3.9 &plusmn;1.3	2247000	8.8 &plusmn;2.9	2.900000e+00	6318	257	11
+Ufa	Russia	10.8 &plusmn;5.5	809000	8.8 &plusmn;4.5	4.500000e+00	4811	258	13
+Tulsa	United States	22.6 &plusmn;10.3	386000	8.7 &plusmn;4.0	4	359	259	48
+Baku	Azerbaijan	4.6 &plusmn;1.7	1885000	8.7 &plusmn;3.2	3.200000e+00	4993	260	1
+Unknown city at lat/lon 32.4, 119.4	China	10.1 &plusmn;6.5	862000	8.7 &plusmn;5.6	5.600000e+00	12872	261	61
+Fuxin	China	12.9 &plusmn;7.9	674000	8.7 &plusmn;5.3	5.300000e+00	11564	262	62
+Khabarovsk	Russia	17.5 &plusmn;11.0	495000	8.7 &plusmn;5.5	5.500000e+00	12307	263	14
+Dongyang	China	7.1 &plusmn;3.1	1220000	8.6 &plusmn;3.8	3.800000e+00	13184	264	63
+Krasnodar	Russia	12.3 &plusmn;5.0	698000	8.6 &plusmn;3.5	3.500000e+00	3929	265	15
+Jiaozuo	China	7.6 &plusmn;3.9	1136000	8.6 &plusmn;4.4	4.400000e+00	11278	266	64
+Sarasota	United States	19.8 &plusmn;9.0	434000	8.6 &plusmn;3.9	3.900000e+00	461	267	49
+Handan	China	7.2 &plusmn;4.1	1195000	8.5 &plusmn;4.8	4.800000e+00	11320	268	65
+Lucknow	India	1.8 &plusmn;0.7	4590000	8.5 &plusmn;3.2	3.200000e+00	7490	269	12
+Baerum	Norway	11.9 &plusmn;6.8	713000	8.5 &plusmn;4.8	4.800000e+00	2329	270	1
+Medellin	Colombia	2.6 &plusmn;1.3	3222000	8.4 &plusmn;4.1	4.100000e+00	526	271	2
+Cordoba	Argentina	6.2 &plusmn;2.4	1367000	8.4 &plusmn;3.3	3.300000e+00	949	272	2
+Nagpur	India	2.8 &plusmn;1.0	2982000	8.3 &plusmn;2.9	2.900000e+00	7548	273	13
+Carslbad	United States	15.5 &plusmn;8.1	538000	8.3 &plusmn;4.4	4.400000e+00	28	274	50
+Anyang	China	7.1 &plusmn;4.0	1161000	8.3 &plusmn;4.6	4.600000e+00	11337	275	66
+Lisbon	Portugal	5.3 &plusmn;2.4	1563000	8.3 &plusmn;3.7	3.700000e+00	1438	276	1
+Sheffield	UK	11.4 &plusmn;7.4	704000	8.0 &plusmn;5.2	5.200000e+00	1696	277	6
+Linfen	China	13.0 &plusmn;9.2	611000	8.0 &plusmn;5.6	5.600000e+00	10961	278	67
+Ottawa	Canada	13.1 &plusmn;6.1	606000	7.9 &plusmn;3.7	3.700000e+00	908	279	7
+Zhuhai	China	6.0 &plusmn;4.4	1328000	7.9 &plusmn;5.8	5.800000e+00	12959	280	68
+Newcastle upon Tyne	UK	8.2 &plusmn;1.0	955000	7.9 &plusmn;1.0	1	1689	281	7
+Liaoyang	China	12.5 &plusmn;11.7	628000	7.9 &plusmn;7.4	7.400000e+00	12002	282	69
+Nantong	China	7.5 &plusmn;3.5	1045000	7.9 &plusmn;3.7	3.700000e+00	13064	283	70
+Puebla	Mexico	4.0 &plusmn;1.5	1977000	7.8 &plusmn;3.0	3	178	284	4
+Antalya	Turkey	8.7 &plusmn;4.0	888000	7.8 &plusmn;3.5	3.500000e+00	3453	285	4
+Gold Coast	Australia	22.6 &plusmn;9.7	342000	7.8 &plusmn;3.3	3.300000e+00	13816	286	6
+Oakland	United States	19.3 &plusmn;10.6	398000	7.7 &plusmn;4.2	4.200000e+00	19	287	51
+Qinhuangdao	China	8.7 &plusmn;5.1	883000	7.7 &plusmn;4.5	4.500000e+00	11615	288	71
+Fresno	United States	13.3 &plusmn;5.5	575000	7.6 &plusmn;3.2	3.200000e+00	50	289	52
+Changzhi	China	12.9 &plusmn;9.4	590000	7.6 &plusmn;5.5	5.500000e+00	11163	290	72
+Indore	India	2.6 &plusmn;1.0	2844000	7.5 &plusmn;2.9	2.900000e+00	6795	291	14
+Turin	Italy	6.2 &plusmn;3.7	1209000	7.5 &plusmn;4.5	4.500000e+00	2236	292	4
+Volgograd	Russia	12.8 &plusmn;5.8	583000	7.5 &plusmn;3.4	3.400000e+00	4223	293	16
+Unknown city at lat/lon 37.8, 113.5	China	12.1 &plusmn;9.8	612000	7.4 &plusmn;6.0	6	11015	294	73
+Porto Alegre	Brazil	2.9 &plusmn;1.1	2501000	7.4 &plusmn;2.7	2.700000e+00	1123	295	5
+Saratov	Russia	10.8 &plusmn;5.2	681000	7.3 &plusmn;3.6	3.600000e+00	4205	296	17
+Albuquerque	United States	17.0 &plusmn;9.0	431000	7.3 &plusmn;3.9	3.900000e+00	197	297	53
+Shymkent	Kazakhstan	9.8 &plusmn;5.7	748000	7.3 &plusmn;4.2	4.200000e+00	5382	298	3
+Huaibei	China	7.0 &plusmn;3.9	1044000	7.3 &plusmn;4.1	4.100000e+00	12196	299	74
+Wuhu, Anhui	China	6.8 &plusmn;4.1	1060000	7.2 &plusmn;4.3	4.300000e+00	12843	300	75
+Qom	Iran	6.9 &plusmn;4.4	1038000	7.2 &plusmn;4.6	4.600000e+00	5151	301	7
+Valencia	Spain	5.9 &plusmn;2.7	1216000	7.2 &plusmn;3.3	3.300000e+00	1760	302	3
+Coimbatore	India	3.2 &plusmn;1.4	2213000	7.2 &plusmn;3.2	3.200000e+00	7649	303	15
+Unknown city at lat/lon 37.1, 114.5	China	8.5 &plusmn;5.6	837000	7.2 &plusmn;4.7	4.700000e+00	11245	304	76
+Tashkent	Uzbekistan	2.0 &plusmn;0.6	3502000	7.1 &plusmn;2.2	2.200000e+00	24381	305	1
+Huangshi	China	9.2 &plusmn;6.2	779000	7.1 &plusmn;4.8	4.800000e+00	12452	306	77
+Grand Rapids	United States	22.6 &plusmn;11.7	315000	7.1 &plusmn;3.7	3.700000e+00	671	307	54
+Zurich	Switzerland	11.0 &plusmn;5.9	647000	7.1 &plusmn;3.8	3.800000e+00	2298	308	1
+Litong	China	26.3 &plusmn;24.4	270000	7.1 &plusmn;6.6	6.600000e+00	10433	309	78
+Pingdingshan, Henan	China	8.4 &plusmn;5.2	846000	7.1 &plusmn;4.4	4.400000e+00	11545	310	79
+Yichang	China	8.4 &plusmn;7.4	837000	7.1 &plusmn;6.2	6.200000e+00	11613	311	80
+Benxi	China	9.3 &plusmn;7.2	762000	7.0 &plusmn;5.5	5.500000e+00	12112	312	81
+Ust' Ordynskiy	Russia	13.4 &plusmn;6.6	527000	7.0 &plusmn;3.5	3.500000e+00	7805	313	18
+Changshu	China	7.7 &plusmn;4.9	918000	7.0 &plusmn;4.5	4.500000e+00	13090	314	82
+Goiania	Brazil	3.8 &plusmn;1.3	1835000	7.0 &plusmn;2.5	2.500000e+00	1084	315	6
+Casablanca	Morocco	1.8 &plusmn;0.6	3874000	7.0 &plusmn;2.4	2.400000e+00	1464	316	1
+Yancheng, Jiangsu	China	9.1 &plusmn;5.0	770000	7.0 &plusmn;3.9	3.900000e+00	12850	317	83
+Bursa	Turkey	5.1 &plusmn;2.9	1365000	7.0 &plusmn;3.9	3.900000e+00	3324	318	5
+Huashan	China	9.7 &plusmn;5.4	719000	7.0 &plusmn;3.9	3.900000e+00	12832	319	84
+Hinggan	China	28.6 &plusmn;29.3	242000	6.9 &plusmn;7.1	7.100000e+00	10884	320	85
+Vadodara	India	3.5 &plusmn;1.3	1987000	6.9 &plusmn;2.7	2.700000e+00	6298	321	16
+Shihar	Saudi Arabia	11.7 &plusmn;6.4	592000	6.9 &plusmn;3.8	3.800000e+00	4688	322	7
+Toluca	Mexico	5.2 &plusmn;1.9	1334000	6.9 &plusmn;2.6	2.600000e+00	148	323	5
+Algiers	Algeria	1.7 &plusmn;0.5	4129000	6.9 &plusmn;2.0	2	1926	324	1
+Tijuana	Mexico	4.5 &plusmn;1.7	1542000	6.9 &plusmn;2.6	2.600000e+00	23	325	6
+Unknown city at lat/lon 37.5, 121.3	China	10.8 &plusmn;6.7	633000	6.9 &plusmn;4.3	4.300000e+00	12426	326	86
+Iqaluit	Canada	15.7 &plusmn;7.5	434000	6.8 &plusmn;3.3	3.300000e+00	961	327	8
+Unknown city at lat/lon 36.2, 117.7	China	9.3 &plusmn;4.1	731000	6.8 &plusmn;3.0	3	11971	328	87
+Polygyros	Greece	10.1 &plusmn;6.6	668000	6.8 &plusmn;4.4	4.400000e+00	3134	329	2
+Asyut	Egypt	1.9 &plusmn;0.7	3479000	6.7 &plusmn;2.4	2.400000e+00	3629	330	4
+Ulanqab	China	24.5 &plusmn;23.1	275000	6.7 &plusmn;6.4	6.400000e+00	10624	331	88
+El Paso	United States	14.6 &plusmn;8.5	463000	6.7 &plusmn;4.0	4	14661	332	55
+Ciudad Juárez	Mexico	5.2 &plusmn;2.2	1289000	6.7 &plusmn;2.9	2.900000e+00	145	333	7
+Lyon	France	5.6 &plusmn;2.6	1197000	6.7 &plusmn;3.1	3.100000e+00	2016	334	2
+Port Elizabeth	South Africa	8.0 &plusmn;3.3	830000	6.7 &plusmn;2.7	2.700000e+00	3245	335	4
+Porto	Portugal	6.8 &plusmn;2.5	972000	6.7 &plusmn;2.4	2.400000e+00	1457	336	2
+Unknown city at lat/lon 34.4, 107.2	China	7.6 &plusmn;4.8	869000	6.6 &plusmn;4.1	4.100000e+00	10635	337	89
+Lalinzhou	China	8.8 &plusmn;5.6	752000	6.6 &plusmn;4.2	4.200000e+00	11874	338	90
+Xinxiang	China	7.6 &plusmn;4.0	871000	6.6 &plusmn;3.5	3.500000e+00	11415	339	91
+Tunis	Tunisia	3.0 &plusmn;1.1	2214000	6.6 &plusmn;2.3	2.300000e+00	2554	340	1
+Taian, Shandong	China	8.8 &plusmn;5.6	747000	6.6 &plusmn;4.2	4.200000e+00	11886	341	92
+Kanpur	India	1.7 &plusmn;0.7	3776000	6.5 &plusmn;2.5	2.500000e+00	7395	342	17
+Huainan	China	7.1 &plusmn;4.5	920000	6.5 &plusmn;4.1	4.100000e+00	12455	343	93
+Jiaxing	China	6.6 &plusmn;3.9	985000	6.5 &plusmn;3.8	3.800000e+00	13151	344	94
+Furth	Germany	9.8 &plusmn;5.4	657000	6.4 &plusmn;3.6	3.600000e+00	2527	345	7
+Bristol	UK	11.6 &plusmn;6.9	553000	6.4 &plusmn;3.8	3.800000e+00	1639	346	8
+Hilo	United States	16.0 &plusmn;12.3	400000	6.4 &plusmn;4.9	4.900000e+00	3	347	56
+Havana	Cuba	3.6 &plusmn;1.3	1785000	6.3 &plusmn;2.3	2.300000e+00	439	348	1
+Unknown city at lat/lon 37.5, 116.3	China	11.2 &plusmn;8.6	568000	6.3 &plusmn;4.9	4.900000e+00	11492	349	95
+Helsinki	Finland	7.4 &plusmn;3.7	858000	6.3 &plusmn;3.2	3.200000e+00	2999	350	1
+Campinas	Brazil	3.8 &plusmn;1.4	1641000	6.3 &plusmn;2.3	2.300000e+00	1190	351	7
+Astrakhan	Russia	12.5 &plusmn;6.7	498000	6.2 &plusmn;3.4	3.400000e+00	4590	352	19
+Mohammed Bin Zayed City	UAE	32.9 &plusmn;27.9	188000	6.2 &plusmn;5.3	5.300000e+00	5292	353	4
+Yaroslavl	Russia	12.4 &plusmn;7.1	498000	6.2 &plusmn;3.5	3.500000e+00	3467	354	20
+Zunyi	China	8.2 &plusmn;5.0	756000	6.2 &plusmn;3.7	3.700000e+00	11188	355	96
+Asansol	India	1.9 &plusmn;0.7	3245000	6.1 &plusmn;2.2	2.200000e+00	9250	356	18
+T'ainan	Taiwan	5.8 &plusmn;2.2	1051000	6.1 &plusmn;2.3	2.300000e+00	13430	357	4
+Guilin	China	6.0 &plusmn;4.4	1024000	6.1 &plusmn;4.5	4.500000e+00	12109	358	97
+Colorado Springs	United States	17.8 &plusmn;9.9	344000	6.1 &plusmn;3.4	3.400000e+00	265	359	57
+Unknown city at lat/lon 32.6, 110.8	China	10.5 &plusmn;7.9	579000	6.1 &plusmn;4.5	4.500000e+00	11258	360	98
+Dayton	United States	21.8 &plusmn;12.1	278000	6.1 &plusmn;3.4	3.400000e+00	649	361	58
+Kaifeng	China	8.3 &plusmn;5.6	728000	6.1 &plusmn;4.1	4.100000e+00	11567	362	99
+Tsentral'nyy Rayon	Russia	14.1 &plusmn;8.2	429000	6.0 &plusmn;3.5	3.500000e+00	4389	363	21
+Unknown city at lat/lon 37.5, 118.5	China	12.6 &plusmn;9.5	479000	6.0 &plusmn;4.5	4.500000e+00	11916	364	100
+Ludhiana	India	2.9 &plusmn;1.3	2081000	6.0 &plusmn;2.7	2.700000e+00	6190	365	19
+Jining, Shandong	China	7.7 &plusmn;5.1	779000	6.0 &plusmn;4.0	4	11924	366	101
+Hengyang	China	6.4 &plusmn;4.1	939000	6.0 &plusmn;3.8	3.800000e+00	12407	367	102
+Allentown	United States	16.6 &plusmn;9.5	359000	6.0 &plusmn;3.4	3.400000e+00	837	368	59
+Hulun Buir	China	30.0 &plusmn;32.3	198000	6.0 &plusmn;6.4	6.400000e+00	10441	369	103
+Unknown city at lat/lon 35.5, 112.8	China	12.4 &plusmn;11.5	475000	5.9 &plusmn;5.5	5.500000e+00	11222	370	104
+Nanyang, Henan	China	6.9 &plusmn;3.6	857000	5.9 &plusmn;3.1	3.100000e+00	11514	371	105
+Qiqihar	China	6.6 &plusmn;4.9	889000	5.9 &plusmn;4.4	4.400000e+00	10895	372	106
+Auckland	New Zealand	6.8 &plusmn;2.9	857000	5.9 &plusmn;2.5	2.500000e+00	13840	373	1
+Toledo	United States	22.8 &plusmn;13.5	257000	5.9 &plusmn;3.5	3.500000e+00	696	374	60
+Zaozhuang	China	10.9 &plusmn;6.9	538000	5.9 &plusmn;3.7	3.700000e+00	12180	375	107
+Unknown city at lat/lon 43.2, 124.4	China	11.7 &plusmn;9.0	502000	5.9 &plusmn;4.5	4.500000e+00	11822	376	108
+Yuci	China	12.9 &plusmn;10.4	452000	5.8 &plusmn;4.7	4.700000e+00	10928	377	109
+Rosario	Argentina	5.7 &plusmn;2.7	1012000	5.8 &plusmn;2.7	2.700000e+00	985	378	3
+Belgrade	Serbia	5.4 &plusmn;2.5	1060000	5.8 &plusmn;2.7	2.700000e+00	3027	379	1
+Tolyatti	Russia	13.0 &plusmn;7.6	442000	5.8 &plusmn;3.4	3.400000e+00	4306	380	22
+Kermanshah	Iran	7.3 &plusmn;3.4	783000	5.7 &plusmn;2.7	2.700000e+00	4979	381	8
+Unknown city at lat/lon 45.1, 124.8	China	11.5 &plusmn;8.6	500000	5.7 &plusmn;4.3	4.300000e+00	11423	382	110
+Izevsk	Russia	10.1 &plusmn;6.0	566000	5.7 &plusmn;3.4	3.400000e+00	4378	383	23
+Jinxi, Liaoning	China	11.3 &plusmn;12.9	506000	5.7 &plusmn;6.5	6.500000e+00	11853	384	111
+Kayseri	Turkey	6.5 &plusmn;2.9	875000	5.7 &plusmn;2.5	2.500000e+00	3838	385	6
+Lagos	Nigeria	0.5 &plusmn;0.2	11014000	5.7 &plusmn;1.7	1.700000e+00	1960	386	1
+Wichita	United States	21.3 &plusmn;11.1	267000	5.7 &plusmn;3.0	3	358	387	61
+Tula	Russia	13.2 &plusmn;8.5	429000	5.7 &plusmn;3.6	3.600000e+00	3468	388	24
+Richmond	United States	20.3 &plusmn;10.9	280000	5.7 &plusmn;3.1	3.100000e+00	760	389	62
+Raipur	India	2.1 &plusmn;0.7	2684000	5.7 &plusmn;1.9	1.900000e+00	8162	390	20
+Mudanjiang	China	7.9 &plusmn;5.5	719000	5.6 &plusmn;3.9	3.900000e+00	12411	391	112
+Unknown city at lat/lon 35.4, 119.5	China	11.0 &plusmn;7.3	511000	5.6 &plusmn;3.7	3.700000e+00	12491	392	113
+Recife	Brazil	1.8 &plusmn;0.6	3096000	5.6 &plusmn;1.9	1.900000e+00	1345	393	8
+Lipetsk	Russia	14.8 &plusmn;7.9	380000	5.6 &plusmn;3.0	3	3670	394	25
+Bengbu	China	6.4 &plusmn;5.1	884000	5.6 &plusmn;4.5	4.500000e+00	12461	395	114
+Malang	Indonesia	2.1 &plusmn;0.6	2673000	5.6 &plusmn;1.6	1.600000e+00	13337	396	7
+Ryazan	Russia	12.7 &plusmn;7.5	441000	5.6 &plusmn;3.3	3.300000e+00	3574	397	26
+Barranquilla	Colombia	3.2 &plusmn;1.6	1777000	5.6 &plusmn;2.9	2.900000e+00	577	398	3
+Xining	China	4.8 &plusmn;2.9	1179000	5.6 &plusmn;3.4	3.400000e+00	10347	399	115
+Bilbao	Spain	7.7 &plusmn;5.2	723000	5.6 &plusmn;3.7	3.700000e+00	1606	400	4
+Unknown city at lat/lon 33.6, 119.0	China	6.0 &plusmn;4.2	928000	5.6 &plusmn;3.9	3.900000e+00	12686	401	116
+Barnaul	Russia	11.2 &plusmn;6.1	495000	5.5 &plusmn;3.0	3	5508	402	27
+Nashville	United States	17.6 &plusmn;9.6	315000	5.5 &plusmn;3.0	3	496	403	63
+Bhopal	India	2.4 &plusmn;0.9	2277000	5.5 &plusmn;2.0	2	7083	404	21
+Tyumen	Russia	10.9 &plusmn;5.9	508000	5.5 &plusmn;3.0	3	5138	405	28
+Memphis	United States	20.8 &plusmn;9.5	266000	5.5 &plusmn;2.5	2.500000e+00	418	406	64
+London	Canada	16.7 &plusmn;10.1	329000	5.5 &plusmn;3.3	3.300000e+00	764	407	9
+Kharkiv	Ukraine	4.0 &plusmn;1.9	1391000	5.5 &plusmn;2.7	2.700000e+00	3502	408	2
+Yuhu	China	6.3 &plusmn;3.5	866000	5.5 &plusmn;3.0	3	12348	409	117
+Zhuzhou	China	6.5 &plusmn;4.5	849000	5.5 &plusmn;3.9	3.900000e+00	12395	410	118
+Langfang	China	10.8 &plusmn;8.1	507000	5.5 &plusmn;4.1	4.100000e+00	11220	411	119
+Unknown city at lat/lon 34.0, 113.8	China	7.8 &plusmn;5.2	697000	5.5 &plusmn;3.6	3.600000e+00	11595	412	120
+Utrecht	Netherlands	11.6 &plusmn;6.3	471000	5.4 &plusmn;3.0	3	2011	413	3
+Unknown city at lat/lon 33.6, 114.0	China	7.1 &plusmn;4.6	760000	5.4 &plusmn;3.5	3.500000e+00	11704	414	121
+Bayan Nur	China	18.5 &plusmn;17.3	293000	5.4 &plusmn;5.1	5.100000e+00	10375	415	122
+Guayaquil	Ecuador	2.3 &plusmn;0.8	2308000	5.4 &plusmn;1.9	1.900000e+00	405	416	2
+Unknown city at lat/lon 38.3, 116.8	China	9.0 &plusmn;6.2	601000	5.4 &plusmn;3.7	3.700000e+00	11442	417	123
+Cali	Colombia	2.4 &plusmn;1.3	2219000	5.4 &plusmn;2.9	2.900000e+00	475	418	4
+Unknown city at lat/lon 35.8, 115.0	China	9.5 &plusmn;5.7	566000	5.4 &plusmn;3.2	3.200000e+00	11546	419	124
+Dandong	China	7.4 &plusmn;5.7	728000	5.4 &plusmn;4.1	4.100000e+00	12492	420	125
+Aktyubinsk	Kazakhstan	13.1 &plusmn;9.1	409000	5.3 &plusmn;3.7	3.700000e+00	5076	421	4
+Nottingham	UK	8.9 &plusmn;3.6	603000	5.3 &plusmn;2.2	2.200000e+00	1709	422	9
+Rochester	United States	17.5 &plusmn;13.9	306000	5.3 &plusmn;4.2	4.200000e+00	836	423	65
+Antwerpen	Belgium	7.6 &plusmn;2.9	705000	5.3 &plusmn;2.1	2.100000e+00	1973	424	2
+Donets'k	Ukraine	5.2 &plusmn;2.2	1015000	5.3 &plusmn;2.2	2.200000e+00	3715	425	3
+Hamilton	Canada	13.1 &plusmn;8.3	404000	5.3 &plusmn;3.3	3.300000e+00	797	426	10
+Luanda	Angola	0.8 &plusmn;0.3	6453000	5.3 &plusmn;1.6	1.600000e+00	2834	427	1
+Peshawar	Pakistan	0.7 &plusmn;0.2	7015000	5.2 &plusmn;1.3	1.300000e+00	5625	428	3
+Penza	Russia	12.5 &plusmn;7.3	416000	5.2 &plusmn;3.0	3	4075	429	29
+Al Basrah	Iraq	3.5 &plusmn;2.0	1466000	5.2 &plusmn;3.0	3	5101	430	2
+Unknown city at lat/lon 36.5, 116.0	China	9.8 &plusmn;6.5	527000	5.2 &plusmn;3.4	3.400000e+00	11594	431	126
+Ypacarai	Paraguay	2.1 &plusmn;0.6	2428000	5.2 &plusmn;1.5	1.500000e+00	17415	432	1
+Unknown city at lat/lon 42.9, 129.5	China	11.2 &plusmn;7.5	462000	5.2 &plusmn;3.5	3.500000e+00	12750	433	127
+Springfield, MA	United States	17.7 &plusmn;7.3	291000	5.1 &plusmn;2.1	2.100000e+00	919	434	66
+Unknown city at lat/lon 46.6, 124.9	China	12.0 &plusmn;7.3	426000	5.1 &plusmn;3.1	3.100000e+00	11126	435	128
+Kavaratti	India	1.7 &plusmn;0.5	3106000	5.1 &plusmn;1.6	1.600000e+00	7215	436	22
+Charlotte	United States	14.5 &plusmn;7.5	353000	5.1 &plusmn;2.7	2.700000e+00	653	437	67
+Colombo	Sri Lanka	1.2 &plusmn;0.3	4363000	5.1 &plusmn;1.5	1.500000e+00	8619	438	1
+Jiamusi	China	7.9 &plusmn;5.2	650000	5.1 &plusmn;3.4	3.400000e+00	11951	439	129
+Zhenjiang, Jiangsu	China	6.6 &plusmn;5.6	764000	5.1 &plusmn;4.3	4.300000e+00	12903	440	130
+Raleigh	United States	14.7 &plusmn;7.1	343000	5.0 &plusmn;2.4	2.400000e+00	710	441	68
+Zhangjiakou	China	8.2 &plusmn;5.6	617000	5.0 &plusmn;3.5	3.500000e+00	10794	442	131
+San Jose	Costa Rica	2.8 &plusmn;0.8	1789000	5.0 &plusmn;1.5	1.500000e+00	365	443	1
+Maracay	Venezuela	6.5 &plusmn;3.6	772000	5.0 &plusmn;2.8	2.800000e+00	765	444	4
+Fortaleza	Brazil	1.8 &plusmn;0.6	2836000	5.0 &plusmn;1.8	1.800000e+00	1308	445	9
+Unknown city at lat/lon 35.1, 117.1	China	8.3 &plusmn;5.8	600000	5.0 &plusmn;3.5	3.500000e+00	12050	446	132
+Chilgok	South Korea	16.4 &plusmn;14.0	304000	5.0 &plusmn;4.3	4.300000e+00	13372	447	11
+Seville	Spain	5.5 &plusmn;2.7	909000	5.0 &plusmn;2.5	2.500000e+00	1512	448	5
+Rasht	Iran	8.7 &plusmn;5.7	573000	5.0 &plusmn;3.2	3.200000e+00	5060	449	9
+Tabuk	Saudi Arabia	12.2 &plusmn;10.0	405000	5.0 &plusmn;4.0	4	4178	450	8
+Hsinchu City	Taiwan	7.3 &plusmn;3.1	673000	4.9 &plusmn;2.1	2.100000e+00	13419	451	5
+Sofia	Bulgaria	5.2 &plusmn;2.5	942000	4.9 &plusmn;2.4	2.400000e+00	3130	452	1
+Hannover	Germany	8.1 &plusmn;4.3	608000	4.9 &plusmn;2.6	2.600000e+00	2357	453	8
+Aintab	Turkey	4.1 &plusmn;2.8	1198000	4.9 &plusmn;3.4	3.400000e+00	4060	454	7
+Bakersfield	United States	11.0 &plusmn;6.5	446000	4.9 &plusmn;2.9	2.900000e+00	30	455	69
+Florence	Italy	6.4 &plusmn;3.9	768000	4.9 &plusmn;3.0	3	2582	456	5
+Stavropol	Russia	11.9 &plusmn;6.9	411000	4.9 &plusmn;2.8	2.800000e+00	4181	457	30
+Kashi	China	10.8 &plusmn;7.3	453000	4.9 &plusmn;3.3	3.300000e+00	5722	458	133
+Kaliningrad	Russia	13.3 &plusmn;9.5	367000	4.9 &plusmn;3.5	3.500000e+00	2933	459	31
+Kemerovo	Russia	12.5 &plusmn;9.0	391000	4.9 &plusmn;3.5	3.500000e+00	5496	460	32
+Tripoli	Libya	4.1 &plusmn;1.6	1200000	4.9 &plusmn;2.0	2	2766	461	1
+Al-Jahrah	Kuwait	27.2 &plusmn;18.4	178000	4.8 &plusmn;3.3	3.300000e+00	5116	462	2
+Newport News	United States	19.3 &plusmn;10.8	251000	4.8 &plusmn;2.7	2.700000e+00	774	463	70
+Unknown city at lat/lon 42.9, 125.1	China	11.8 &plusmn;9.1	410000	4.8 &plusmn;3.7	3.700000e+00	11984	464	134
+Dnipropetrovs'k	Ukraine	5.9 &plusmn;2.5	826000	4.8 &plusmn;2.1	2.100000e+00	3477	465	4
+Panama	Panama	4.4 &plusmn;1.7	1100000	4.8 &plusmn;1.9	1.900000e+00	430	466	1
+Kudymkar	Russia	8.5 &plusmn;6.7	568000	4.8 &plusmn;3.8	3.800000e+00	4541	467	33
+Belgorod	Russia	15.2 &plusmn;9.5	315000	4.8 &plusmn;3.0	3	3512	468	34
+Lille	France	5.7 &plusmn;2.7	837000	4.8 &plusmn;2.3	2.300000e+00	20394	469	3
+Yinzhuzhen	China	15.4 &plusmn;11.3	308000	4.7 &plusmn;3.5	3.500000e+00	12505	470	135
+Akron	United States	22.6 &plusmn;12.6	209000	4.7 &plusmn;2.6	2.600000e+00	727	471	71
+Saint George's	Trinidad and Tobago	12.1 &plusmn;6.0	389000	4.7 &plusmn;2.3	2.300000e+00	903	472	1
+Unknown city at lat/lon 40.7, 120.8	China	9.1 &plusmn;8.0	515000	4.7 &plusmn;4.1	4.100000e+00	11680	473	136
+Barquisimeto	Venezuela	5.8 &plusmn;2.4	803000	4.7 &plusmn;2.0	2	722	474	5
+Vladivostok	Russia	10.1 &plusmn;7.8	462000	4.7 &plusmn;3.6	3.600000e+00	13000	475	35
+Tomsk	Russia	11.2 &plusmn;5.7	417000	4.7 &plusmn;2.4	2.400000e+00	5414	476	36
+Orenburg	Russia	11.1 &plusmn;7.8	420000	4.7 &plusmn;3.3	3.300000e+00	4902	477	37
+Unknown city at lat/lon 32.5, 119.9	China	10.3 &plusmn;7.3	453000	4.6 &plusmn;3.3	3.300000e+00	12928	478	137
+Novokuznetsk	Russia	12.2 &plusmn;9.9	380000	4.6 &plusmn;3.8	3.800000e+00	5577	479	38
+Qianxixiang	China	7.4 &plusmn;5.7	625000	4.6 &plusmn;3.5	3.500000e+00	13166	480	138
+Palm Springs	United States	15.4 &plusmn;7.5	299000	4.6 &plusmn;2.3	2.300000e+00	61	481	72
+Torreón	Mexico	4.6 &plusmn;2.3	992000	4.6 &plusmn;2.2	2.200000e+00	129	482	8
+Buraydah	Saudi Arabia	15.1 &plusmn;8.8	304000	4.6 &plusmn;2.7	2.700000e+00	4927	483	9
+Unknown city at lat/lon 39.1, 117.7	China	11.5 &plusmn;7.1	401000	4.6 &plusmn;2.8	2.800000e+00	11447	484	139
+Varanasi	India	1.1 &plusmn;0.5	4165000	4.6 &plusmn;1.9	1.900000e+00	8185	485	23
+Unayzha	Saudi Arabia	16.1 &plusmn;9.9	284000	4.6 &plusmn;2.8	2.800000e+00	4936	486	10
+Surat	India	1.2 &plusmn;0.5	3698000	4.6 &plusmn;2.0	2	6280	487	24
+Unknown city at lat/lon 37.5, 112.1	China	10.5 &plusmn;5.8	434000	4.5 &plusmn;2.5	2.500000e+00	10874	488	140
+Merida	Mexico	5.0 &plusmn;2.8	903000	4.5 &plusmn;2.6	2.600000e+00	334	489	9
+Varamin	Iran	8.5 &plusmn;5.7	532000	4.5 &plusmn;3.0	3	5161	490	10
+Cochin	India	2.2 &plusmn;0.6	2013000	4.5 &plusmn;1.3	1.300000e+00	7518	491	25
+Unknown city at lat/lon 32.9, 115.8	China	6.3 &plusmn;4.3	719000	4.5 &plusmn;3.1	3.100000e+00	12173	492	141
+Mary	Turkmenistan	7.3 &plusmn;5.9	616000	4.5 &plusmn;3.6	3.600000e+00	5323	493	2
+Arbil	Iraq	4.1 &plusmn;1.6	1091000	4.5 &plusmn;1.7	1.700000e+00	4666	494	3
+Brasilia	Brazil	2.6 &plusmn;1.2	1684000	4.5 &plusmn;2.0	2	1119	495	10
+Kursk	Russia	13.6 &plusmn;7.9	327000	4.4 &plusmn;2.6	2.600000e+00	3461	496	39
+Daqing	China	11.7 &plusmn;6.5	379000	4.4 &plusmn;2.5	2.500000e+00	11148	497	142
+Mendoza	Argentina	5.2 &plusmn;2.4	855000	4.4 &plusmn;2.0	2	884	498	4
+Waterloo	Canada	15.6 &plusmn;9.5	282000	4.4 &plusmn;2.7	2.700000e+00	789	499	11
+Unknown city at lat/lon 36.0, 129.4	South Korea	13.9 &plusmn;7.8	316000	4.4 &plusmn;2.5	2.500000e+00	13399	500	12
