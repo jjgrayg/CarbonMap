@@ -7,11 +7,14 @@ map = folium.Map(location = [38.58,-99.09], zoom_start = 6, titles = "Stamen Ter
 # Import city locations as a CSV
 allCities = pd.read_csv("worldcities.csv")
 
+# Import carbon data on cities
 cityCarbonTot = pd.read_csv("GGMCF_top500cities.txt", sep = '\t')
 
+# Merge
+### The population limit is to get rid of multiple entries of carbon data for cities with the same name (ex. Cleveland, Texas)
 allCities = allCities[allCities.population > 100000].merge(cityCarbonTot, on = ["city_ascii", 'country'], how = 'right')
 
-# Labels required: city, lat, lng, capital, population, country, Global ranking, Domestic ranking, (t CO2), (Mt CO2), Footprint/cap, Footprint
+# Labels required: city, lat, lng, capital, population, country, Global ranking, Domestic ranking, Footprint/cap (t CO2), Footprint (Mt CO2)
 
 # Separate the cities by whether or not they are a capital
 capitalCities = allCities.dropna()[['city', 'lat','lng','capital','population','country','Global ranking','Domestic ranking','Footprint/cap (t CO2)','Footprint (Mt CO2)','admin_name']]
